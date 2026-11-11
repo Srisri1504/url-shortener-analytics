@@ -1,4 +1,6 @@
 # URL Shortener with Click Analytics
+**Live API Demo (Swagger UI):** https://url-shortener-analytics-ywg3.onrender.com/docs
+
 
 A fast, lightweight URL Shortening service built with **Python**, **FastAPI**, and **SQLite**. Supports custom aliases, Base62-style random short code generation, HTTP 307 redirection, and real-time click tracking.
 
